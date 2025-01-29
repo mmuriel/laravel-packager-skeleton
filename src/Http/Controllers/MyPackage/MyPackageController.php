@@ -13,7 +13,7 @@ class :uc:package\Controller extends Controller
     * 
     * @return void
     */
-    public function __construct(protected uc:packageRepository $:lc:packageRepository)
+    public function __construct(protected :uc:packageRepository $:lc:packageRepository)
     {
     }
 
