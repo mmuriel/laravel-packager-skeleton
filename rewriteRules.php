@@ -9,7 +9,7 @@ return [
     'src/Facades/MyPackage.php' => 'src/Facades/:uc:package.php',
     'src/Http/routes.php' => 'src/Http/routes.php',
     'src/Http/Controllers/Controller.php' => 'src/Http/Controllers/Controller.php',
-    'src/Http/Controllers/MyPackage/MyPackageController.php' => 'src/Http/Controllers/:uc:packageController.php',
+    'src/Http/Controllers/MyPackage/MyPackageController.php' => 'src/Http/Controllers/:uc:package/:uc:packageController.php',
     'src/Models/MyPackage.php' => 'src/Models/:uc:package.php',
     'src/Providers/MyPackageServiceProvider.php' => 'src/Providers/:uc:packageServiceProvider.php',
     'src/Repositories/MyPackageRepository.php' => 'src/Repositories/:uc:packageRepository.php',

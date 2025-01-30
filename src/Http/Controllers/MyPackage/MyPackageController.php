@@ -5,7 +5,7 @@ namespace :uc:vendor\:uc:package\Http\Controllers\:uc:package;
 use :uc:vendor\:uc:package\Http\Controllers\Controller;
 use :uc:vendor\:uc:package\Repositories\:uc:packageRepository;
 
-class :uc:package\Controller extends Controller
+class :uc:packageController extends Controller
 {
 
     /**
