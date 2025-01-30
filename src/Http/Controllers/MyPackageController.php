@@ -1,6 +1,6 @@
 <?php
 
-namespace :uc:vendor\:uc:package\Http\Controllers\:uc:package;
+namespace :uc:vendor\:uc:package\Http\Controllers;
 
 use :uc:vendor\:uc:package\Http\Controllers\Controller;
 use :uc:vendor\:uc:package\Repositories\:uc:packageRepository;
