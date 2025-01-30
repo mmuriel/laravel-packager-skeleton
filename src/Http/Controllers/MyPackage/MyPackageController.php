@@ -1,9 +1,9 @@
 <?php
 
-namespace Cameyando\Oficios\Http\Controllers\Oficios;
+namespace :uc:vendor\:uc:package\Http\Controllers\:uc:package;
 
 use :uc:vendor\:uc:package\Http\Controllers\Controller;
-use :uc:vendor\:uc:package\Repositories\:uc:package\Repository;
+use :uc:vendor\:uc:package\Repositories\:uc:packageRepository;
 
 class :uc:package\Controller extends Controller
 {
