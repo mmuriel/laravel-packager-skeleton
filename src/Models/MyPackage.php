@@ -22,6 +22,6 @@ class :uc:package extends Model implements :uc:packageContract
      */
     protected static function newFactory(): Factory
     {
-        return :uc:vendor\:uc:package\Database\Factories\:uc:packageFactory::new();
+        return \:uc:vendor\:uc:package\Database\Factories\:uc:packageFactory::new();
     }
 }
