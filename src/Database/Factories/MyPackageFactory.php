@@ -11,7 +11,7 @@ class :uc:packageFactory extends Factory
      *
      * @var class-string<\Illuminate\Database\Eloquent\Model>
      */
-    protected $model = :uc:vendor\:uc:package\Models\:uc:package;
+    protected $model = :uc:vendor\:uc:package\Models\:uc:package::class;
 
     /**
      * Define the model's default state.

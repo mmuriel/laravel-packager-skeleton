@@ -12,6 +12,7 @@ use :uc:vendor\:uc:package\Database\Factories\:uc:packageFactory
 class :uc:package extends Model implements :uc:package\Contract
 {
     use HasFactory;
+    protected $table = ':lc:package';
     protected $fillable = [
     ];
 
