@@ -6,6 +6,7 @@ return [
     'src/MyPackage.php' => 'src/:uc:package.php',
     'src/Contracts/MyPackage.php' => 'src/Contracts/:uc:package.php',
     'src/Database/Migrations/2025_01_28_023430_create_MyPackage_table.php' => 'src/Database/Migrations/2025_01_28_023430_create_:lc:package_table.php',
+    'src/Database/Factories/MyPackageFactory.php' => 'src/Database/Factories/:uc:packageFactory.php',
     'src/Facades/MyPackage.php' => 'src/Facades/:uc:package.php',
     'src/Http/routes.php' => 'src/Http/routes.php',
     'src/Http/Controllers/MyPackageController.php' => 'src/Http/Controllers/:uc:packageController.php',
